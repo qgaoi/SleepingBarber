@@ -1,2 +1,2 @@
-# SleepingBarber
+
 # SleepingBarber GUI
